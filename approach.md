@@ -103,7 +103,7 @@ review.
 
 ## AI tool usage
 
-Used Gemini 2.0 Flash (via Google AI Studio) for scaffolding boilerplate (FastAPI
+Used Gemini 2.5 Flash (via Google AI Studio) for scaffolding boilerplate (FastAPI
 routing, Pydantic models, Dockerfile) and for drafting prompt copy, which I
 then edited for correctness and tightened the JSON contract on. The
 retrieval/guard/agent control-flow design and the anti-hallucination
